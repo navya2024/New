@@ -33,13 +33,13 @@
             android:id="@+id/e3"
             tools:ignore="Autofill,HardcodedText,TextFields" />
 
-        <Button
-            android:layout_width="180sp"
-            android:layout_height="80sp"
-            android:text="Show"
-            android:onClick="funget"
-            android:textSize="40sp"
-            tools:ignore="HardcodedText,UsingOnClickInXml" />
+<!--        <Button-->
+<!--            android:layout_width="180sp"-->
+<!--            android:layout_height="80sp"-->
+<!--            android:text="Show"-->
+<!--            android:onClick="funget"-->
+<!--            android:textSize="40sp"-->
+<!--            tools:ignore="HardcodedText,UsingOnClickInXml" />-->
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

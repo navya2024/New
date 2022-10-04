@@ -25,13 +25,13 @@
             android:id="@+id/e2"
             android:autofillHints=""
             tools:ignore="HardcodedText,TextFields" />
-<!--        <EditText-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="80sp"-->
-<!--            android:hint="Marks"-->
-<!--            android:textSize="40sp"-->
-<!--            android:id="@+id/e3"-->
-<!--            tools:ignore="Autofill,HardcodedText,TextFields" />-->
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="80sp"
+            android:hint="Marks"
+            android:textSize="40sp"
+            android:id="@+id/e3"
+            tools:ignore="Autofill,HardcodedText,TextFields" />
 
 <!--        <Button-->
 <!--            android:layout_width="180sp"-->
